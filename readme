@@ -1,0 +1,18 @@
+				easyframework
+
+author: 邹凯明
+mail: zoukaiming@163.com
+blog: http://blog.csdn.net/allen_zkm
+version : V0.1
+createTime: 2013-11-10 12:00:00
+updateTime: 2014-03-05 13:42:00
+descripiton: 该框架的整合参考了 sypro项目(网址:http://sypro.jeasyuicn.com/index.jsp)，感谢sypro项目的作者孙宇能将他所写的项目源码分享出来，
+		easyframework整合spring mvc + hibernate 大部分都参考了sypro的配置。easyframework是我个人在业余时间写的，里面可能还存在bug，或者有
+		些接口没有设计好，或者其他什么问题都请将你的意见发送到我邮箱，我很乐意和大家一起交流技术问题。原本打算在博客上写几篇关于这个项目的，但
+		由于工作比较忙，只能往后推了。
+		你可以将这个框架应用于你的项目中，但请保留原作者信息。如果需要技术支持请发送到我邮箱。
+	
+	
+	
+	
+		 				
